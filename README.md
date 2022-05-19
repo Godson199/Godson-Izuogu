@@ -4,6 +4,7 @@
 ### [Project 2: Hamoye stage B: Project Overview](https://github.com/Godson199/Hamoye_stage_B/blob/main/Hamoye%20_Internship_Stage_B_Project1.ipynb)
 
 ### Project 3: Football Celebrity Classification Model: Project Overview
+[]()
 * created a machine learning algorithm
 
 ### Project 3: Pepper Disease Classification: Project Overview
