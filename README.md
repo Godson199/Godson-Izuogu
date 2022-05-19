@@ -1,5 +1,5 @@
 
-## [Project 1: Hamoye Stage C: Project Overview](https://github.com/Godson199/stage_c_tag_alng)
+## [Project 1: Hamoye Stage C: Project Overview](https://github.com/Godson199/stage_c_tag_alng/blob/main/Stage_C_tag_along.ipynb)
 
 ## [Project 2: Hamoye stage B: Project Overview](https://github.com/Godson199/Hamoye_stage_B)
 
