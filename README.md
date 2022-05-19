@@ -3,7 +3,7 @@
 
 ### [Project 2: Hamoye stage B: Project Overview](https://github.com/Godson199/Hamoye_stage_B/blob/main/Hamoye%20_Internship_Stage_B_Project1.ipynb)
 
-### Project 3: Football Celebrity Classification Model: Project Overview
+### [Project 3: Football Celebrity Classification Model: Project Overview](https://github.com/Godson199/Football-Celebrity-classification)
 ![](https://github.com/Godson199/Godson-Izuogu/blob/main/images/CR7.jpg)
 * created a machine learning algorithm
 
