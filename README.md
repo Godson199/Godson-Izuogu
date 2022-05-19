@@ -1,8 +1,9 @@
-# Data Science Portfolio
 
 ## [Project 1: Hamoye Stage C: Project Overview](https://github.com/Godson199/stage_c_tag_alng)
 
-## Project 2: Football Celebrity Classification Model: Project Overview
+## [Project 2: Hamoye stage B: Project Overview]()
+
+## Project 3: Football Celebrity Classification Model: Project Overview
 * created a machine learning algorithm
 
 ## Project 3: Pepper Disease Classification: Project Overview
