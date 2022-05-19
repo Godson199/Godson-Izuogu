@@ -3,11 +3,11 @@
 
 ### [Project 2: Hamoye stage B: Project Overview](https://github.com/Godson199/Hamoye_stage_B/blob/main/Hamoye%20_Internship_Stage_B_Project1.ipynb)
 
-### [Project 3: Football Celebrity Classification Model: Project Overview](https://github.com/Godson199/Football-Celebrity-classification)
+### [Project 3: Football Celebrity Classifier: Project Overview](https://github.com/Godson199/Football-Celebrity-classification)
 ![](/images/CR7.jpg)
 * created a machine learning algorithm
 
-### Project 3: Pepper Disease Classification: Project Overview
+### Project 3: Pepper Disease Classifier: Project Overview
 
 ### Project 4: House Pricing Prediction: Project Overview
 
