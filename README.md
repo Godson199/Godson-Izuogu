@@ -12,10 +12,11 @@
 * created a machine learning algorithm
 
 ### [Project 5: Pepper Disease Classifier: Project Overview]()
+* Created a Pepper Disease classifier using convolutional Neural Network for Image recognition and processing.
 
 ### [Project 6: House Pricing Prediction: Project Overview]()
 
-### [Project 7: Hamoye Stage E Project: Project Overview](https://github.com/Godson199/Stage_E_tag_along)
+### [Project 7: Time Series Analysis and Forecasting: Project Overview](https://github.com/Godson199/Stage_E_tag_along)
 * Explored and built a Time series forecasting model for measurement of electric consumption in one household with a one-minute sampling rate over a period of almost 4 years.
 
 ### [project 8: Umuoja Hack Africa (Helping Uganda): Project Overview]()
