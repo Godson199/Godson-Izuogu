@@ -1,5 +1,5 @@
 
-### [Project 1: Python For Data Science: Project Overview]()
+### [Project 1: Python For Data Science: Project Overview](https://github.com/Godson199/Python-for-Data-science)
 * In this project, I worked on Data cleaning, wrangling, exploring, providing summary statistics and interesting visualizations on a public utility.                                                                                                                                                            
 ### [Project 2: Hamoye Stage C: Project Overview](https://github.com/Godson199/stage_c_tag_alng)
 * Worked with datasets from the UCI data repository to classify and predict the quality (qascore) of the ecological footprint data for the different countries. 
